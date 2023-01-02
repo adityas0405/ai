@@ -1,4 +1,4 @@
-# ai
+# AI you can speak to using Open AI
 Created an early prototpye AI that uses Open AI to generate responses, to your queries. 
 I plan to add and implement many more features like
 - YOLOR for object, face detection.
